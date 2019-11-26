@@ -26,7 +26,6 @@ MonoBehaviour:
   - sofa_4_AcousticProxy
   - sofa_1_base
   - shower_glass
-  - Floors__Floor (2)
   - Acoustically_Important_Sink.2 (1)
   - sofa_1_seat 1
   - Walls_Wall (18)
@@ -34,7 +33,6 @@ MonoBehaviour:
   - kitchen_table_2_cover
   - Walls_Wall (17)
   - Walls_Wall (3)
-  - Floors__Floor (1)
   - Walls_Wall (16)
   - Floors__Floor
   - Walls_Wall (11)
@@ -68,4 +66,5 @@ MonoBehaviour:
   - kitchen_table_2_base
   - washbasin_AcousticProxy
   - Walls_Wall (7)
-  m_serializedGeometry: {fileID: 0}
+  m_serializedGeometry: {fileID: 11400000, guid: 0280755c5dbe1314cbdc4e7c8decc0a7,
+    type: 2}
