@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ECE6FA8C-CF9A-2003-437C-9AC253FDB026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soundtoolkit", "Soundtoolkit.csproj", "{C2B17E10-3387-42A4-8914-5C1CD8DC2394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2E9E031A-6BCA-C620-1B6F-21ACE7B85AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE6FA8C-CF9A-2003-437C-9AC253FDB026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE6FA8C-CF9A-2003-437C-9AC253FDB026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE6FA8C-CF9A-2003-437C-9AC253FDB026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE6FA8C-CF9A-2003-437C-9AC253FDB026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B17E10-3387-42A4-8914-5C1CD8DC2394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B17E10-3387-42A4-8914-5C1CD8DC2394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B17E10-3387-42A4-8914-5C1CD8DC2394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B17E10-3387-42A4-8914-5C1CD8DC2394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9E031A-6BCA-C620-1B6F-21ACE7B85AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9E031A-6BCA-C620-1B6F-21ACE7B85AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9E031A-6BCA-C620-1B6F-21ACE7B85AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9E031A-6BCA-C620-1B6F-21ACE7B85AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

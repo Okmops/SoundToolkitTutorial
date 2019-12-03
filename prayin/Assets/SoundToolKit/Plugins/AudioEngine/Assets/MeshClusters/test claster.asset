@@ -15,5 +15,6 @@ MonoBehaviour:
   m_meshes:
   - Floors__Floor (1)
   - Floors__Floor (2)
+  - Floors__Floor
   m_serializedGeometry: {fileID: 11400000, guid: 13c17920bc2e8e04b8d58f000e0c3f7d,
     type: 2}
